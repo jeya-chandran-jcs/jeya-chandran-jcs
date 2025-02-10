@@ -14,13 +14,13 @@
 - 🔭 I am actively learning Full Stack MERN and currently focused on full stack development
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://jeya-chandran-s-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://jeya-chandran-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **jeyachandranjcs@gmail.com**
 
-- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1g1iVvO4QKLIqIDMhLFIKatztvqj6iQpK/view)
+- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1fQ4ygXDIZSDRE7Vk0SGn9tlSVIvKB80Q/view?usp=sharing)
 
 
 
